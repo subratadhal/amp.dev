@@ -1,3 +1,24 @@
+nextstop:
+  - title: Lahore
+    coords: 75x19
+    time: Postponed
+    location: TBD
+  - title: Islamabad
+    coords: 76x18
+    time: Postponed
+    location: TBD
+  - title: Karachi
+    coords: 73x22
+    time: Postponed
+    location: TBD
+  - title: Dhaka
+    coords: 82x21
+    time: Postponrd
+    location: TBD
+  - title: Colombo
+    coords: 79x27
+    time: Postponed
+    location: TBD
 past:
   - title: SEOUL
     coords: 91x16
